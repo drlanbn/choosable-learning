@@ -1,0 +1,39 @@
+{
+    "5": [
+        {
+            "name": "Başlat",
+            "time": "0"
+        }
+    ],
+    "12": [
+        {
+            "name": "Göndereni kontrol etmeliyim",
+            "time": "16"
+        },
+        {
+            "name": "Şifre değiştirme linkine tıklamalıyım",
+            "time": "20"
+        }
+    ],
+    "18": [
+        {
+            "name": "Güvenilir olduğunu düşünüyorum",
+            "time": "20"
+        },
+        {
+            "name": "Bence güvenilir değil",
+            "time": "35"
+        }
+    ],
+    "22": [
+        {
+            "name": "Siteyi kontrol etmeliyim",
+            "time": "35"
+        },
+        {
+            "name": "Hemen şifremi değiştirmeliyim",
+            "time": "35"
+        }
+    ]
+    
+  }
